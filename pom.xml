@@ -6,7 +6,7 @@
 	<groupId>spring.boot.mongo</groupId>
 	<artifactId>ok-sample-pipeline-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>spring-mongo</name>
 	<url>http://maven.apache.org</url>
